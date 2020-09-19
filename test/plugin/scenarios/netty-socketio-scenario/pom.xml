@@ -32,7 +32,7 @@
 
 
         <test.framework>netty-socketio</test.framework>
-        <test.framework.version>1.7.12</test.framework.version>
+        <test.framework.version>1.7.18</test.framework.version>
     </properties>
 
     <name>skywalking-netty-socketio-scenario</name>
