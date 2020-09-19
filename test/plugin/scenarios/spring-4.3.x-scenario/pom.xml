@@ -30,7 +30,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <compiler.version>1.8</compiler.version>
-        <test.framework.version>4.3.0.RELEASE</test.framework.version>
+        <test.framework.version>4.3.29.RELEASE</test.framework.version>
         <test.framework>spring</test.framework>
     </properties>
 
@@ -67,7 +67,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.9.3</version>
+            <version>2.9.10.6</version>
         </dependency>
 
         <dependency>
