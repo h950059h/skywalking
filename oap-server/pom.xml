@@ -85,7 +85,7 @@
         <netty.version>4.1.27.Final</netty.version>
         <jackson-module-afterburner.version>2.9.5</jackson-module-afterburner.version>
         <antlr.version>4.7.1</antlr.version>
-        <freemarker.version>2.3.28</freemarker.version>
+        <freemarker.version>2.3.30</freemarker.version>
         <javaassist.version>3.25.0-GA</javaassist.version>
 
         <zookeeper.image.version>3.5</zookeeper.image.version>
