@@ -29,7 +29,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <test.framework.version>1.1.2</test.framework.version>
+        <test.framework.version>1.1.5</test.framework.version>
         <compiler.version>1.8</compiler.version>
 
         <log4j.version>2.6.2</log4j.version>
