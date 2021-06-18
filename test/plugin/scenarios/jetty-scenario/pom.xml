@@ -36,12 +36,12 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <test.framework.version>9.0.0.v20130308</test.framework.version>
+        <test.framework.version>9.4.39.v20210325</test.framework.version>
 
         <jettyserver.version>${test.framework.version}</jettyserver.version>
         <jettyclient.version>${test.framework.version}</jettyclient.version>
 
-        <log4j.version>2.6.2</log4j.version>
+        <log4j.version>2.13.2</log4j.version>
     </properties>
 
     <build>
