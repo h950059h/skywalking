@@ -30,7 +30,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <compiler.version>1.8</compiler.version>
-        <test.framework.version>4.3.5.RELEASE</test.framework.version>
+        <test.framework.version>4.3.14.RELEASE</test.framework.version>
         <test.framework>spring-async</test.framework>
     </properties>
 
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.6</version>
+            <version>4.5.7</version>
         </dependency>
     </dependencies>
 
