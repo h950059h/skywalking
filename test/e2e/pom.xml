@@ -51,9 +51,9 @@
         <spring.cloud.version>2.1.2.RELEASE</spring.cloud.version>
         <faster.jackson.version>2.9.7</faster.jackson.version>
         <junit.version>4.12</junit.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.13.4</jackson.version>
         <guava.version>20.0</guava.version>
-        <snake.version>1.23</snake.version>
+        <snake.version>1.31</snake.version>
         <gson.version>2.8.5</gson.version>
         <h2.version>1.4.199</h2.version>
         <mysql.version>8.0.13</mysql.version>
